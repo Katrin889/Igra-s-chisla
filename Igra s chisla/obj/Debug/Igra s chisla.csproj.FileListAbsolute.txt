@@ -1,0 +1,8 @@
+C:\Users\STEM-1-1\Desktop\Katrin 10a\Igra s chisla\Igra s chisla\bin\Debug\Igra s chisla.exe.config
+C:\Users\STEM-1-1\Desktop\Katrin 10a\Igra s chisla\Igra s chisla\bin\Debug\Igra s chisla.exe
+C:\Users\STEM-1-1\Desktop\Katrin 10a\Igra s chisla\Igra s chisla\bin\Debug\Igra s chisla.pdb
+C:\Users\STEM-1-1\Desktop\Katrin 10a\Igra s chisla\Igra s chisla\obj\Debug\Igra s chisla.csproj.AssemblyReference.cache
+C:\Users\STEM-1-1\Desktop\Katrin 10a\Igra s chisla\Igra s chisla\obj\Debug\Igra s chisla.csproj.CoreCompileInputs.cache
+C:\Users\STEM-1-1\Desktop\Katrin 10a\Igra s chisla\Igra s chisla\obj\Debug\Igra s chisla.exe
+C:\Users\STEM-1-1\Desktop\Katrin 10a\Igra s chisla\Igra s chisla\obj\Debug\Igra s chisla.pdb
+C:\Users\STEM-1-1\Desktop\Katrin 10a\Igra s chisla\Igra s chisla\obj\Debug\Igra s chisla.exe.config
